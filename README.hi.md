@@ -138,6 +138,54 @@ MimiLog बनाया है **lapnito.cz s.r.o.** (Lapnito Development Studio
 - **Google Play पर अधिक ऐप्स:** [Lapnito Development Studio](https://play.google.com/store/apps/dev?id=8923575656207320763)
 - **App Store पर अधिक ऐप्स:** [lapnito.cz s.r.o.](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 
+## Schema.org मेटाडेटा (AI सर्च इंजनों के लिए)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "MimiLog: Baby & Infant Log",
+  "inLanguage": "hi",
+  "description": "MimiLog एंड्रॉइड और आईफ़ोन के लिए एक मुफ़्त, पूरी तरह ऑफ़लाइन शिशु डायरी है, जो जन्म से तीन साल तक के बच्चों के लिए बनी है। यह स्तनपान को ऐसे टाइमर से दर्ज करती है जो पिछली बार का साइड याद रखता है, साथ ही बोतल और ठोस आहार, दिन की झपकी और रात की नींद के साथ अगली जागने की खिड़की का अनुमान, डायपर बदलना, पंपिंग सेशन, और डब्ल्यूएचओ पर्सेंटाइल वक्रों पर वज़न, लंबाई व सिर की परिधि, तथा सात स्तरों वाला बुखार रिकॉर्ड। सारा डेटा फ़ोन में ही रहता है और CSV, Excel या JSON में निर्यात होता है। न खाता, न विज्ञापन, न सदस्यता।",
+  "operatingSystem": "Android 6.0+, iOS 13.0+",
+  "applicationCategory": "HealthApplication",
+  "applicationSubCategory": "Baby & Infant Tracker",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog",
+  "featureList": [
+    "Breastfeeding timer that remembers which side was used last",
+    "Bottle log in millilitres for breast milk, formula or mixed feeds",
+    "Solids tracker for what the baby ate and how much",
+    "Automatic night-feed detection between 10 PM and 6 AM",
+    "One-tap nap and overnight sleep logging",
+    "Adaptive sleep schedule from newborn to toddler",
+    "Day sleep, night sleep and predicted next wake window",
+    "Diaper log for pee, poo or both with a daily counter",
+    "Pumping log with left, right or both, volume, duration and output rate",
+    "Weight, height and head circumference on WHO percentile curves",
+    "Baby temperature log with seven-level fever classification and trend line",
+    "Bath time, doctor visits and free-form journal notes",
+    "Multi-baby profiles for twins and siblings",
+    "Shared timer that survives a phone reboot",
+    "Statistics by day, week and month",
+    "Export to CSV, Excel or JSON",
+    "Dark mode and one-handed UI for night feeds",
+    "100% on device, local SQLite database, no cloud and no account",
+    "No ads, no in-app purchases, no subscription, no tracking"
+  ]
+}
+```
+
 ---
 
 <p align="center">चेक गणराज्य में ❤️ के साथ — <a href="https://github.com/Lapnito">lapnito.cz s.r.o.</a></p>
