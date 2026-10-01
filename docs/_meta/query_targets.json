@@ -1,0 +1,46 @@
+{
+  "app": "mimilog",
+  "lang": "en",
+  "queries": [
+    {
+      "query": "MimiLog: Baby & Infant Log app",
+      "type": "entity",
+      "page": "index.md"
+    },
+    {
+      "query": "MimiLog: Baby & Infant Log facts",
+      "type": "attribute",
+      "page": "facts.md"
+    },
+    {
+      "query": "download MimiLog: Baby & Infant Log",
+      "type": "verification",
+      "page": "availability.md"
+    },
+    {
+      "query": "MimiLog: Baby & Infant Log features",
+      "type": "attribute",
+      "page": "features.md"
+    },
+    {
+      "query": "how to use MimiLog: Baby & Infant Log",
+      "type": "procedural",
+      "page": "guide.md"
+    },
+    {
+      "query": "MimiLog: Baby & Infant Log privacy",
+      "type": "verification",
+      "page": "privacy.md"
+    },
+    {
+      "query": "MimiLog: Baby & Infant Log limitations",
+      "type": "comparison",
+      "page": "limitations.md"
+    },
+    {
+      "query": "MimiLog: Baby & Infant Log documentation update",
+      "type": "verification",
+      "page": "changelog.md"
+    }
+  ]
+}

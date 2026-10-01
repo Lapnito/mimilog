@@ -1,0 +1,12 @@
+{
+  "app": "mimilog",
+  "scanned_at": "2026-10-01T00:00:00Z",
+  "play": {
+    "url": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog",
+    "updated": "2026-04-23",
+    "package": "com.mimiapp.mimilog"
+  },
+  "ios": {
+    "url": "https://apps.apple.com/us/app/mimilog-baby-infant-log/id6762612529"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "app": "mimilog",
+  "facts": {
+    "store_listing": {
+      "value": "Offline baby diary. Free forever, no ads, no signup. Feeding, sleep, growth.",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    "privacy": {
+      "value": "The listing says records stay in a local SQLite database, with no account, analytics, advertising identifiers or third-party SDKs. Google Play declares no data collected or shared.",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    "limitations": {
+      "value": "MimiLog does not replace professional medical advice. Data does not sync automatically between devices.",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    }
+  },
+  "features": [
+    {
+      "name": "Breastfeeding timer, bottle feeds, solids and automatic night-feed detection",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    {
+      "name": "Nap and overnight sleep logs with wake-window estimates",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    {
+      "name": "Diaper and pumping logs",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    {
+      "name": "Weight, height and head circumference on WHO percentile curves",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    {
+      "name": "Temperature history with seven-level fever classification",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    },
+    {
+      "name": "Multiple baby profiles, statistics and CSV, Excel or JSON export",
+      "source": "https://play.google.com/store/apps/details?id=com.mimiapp.mimilog"
+    }
+  ]
+}

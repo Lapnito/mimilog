@@ -1,0 +1,9 @@
+# MimiLog: Baby & Infant Log
+
+> A free offline baby diary for ages 0–3 covering feeding, sleep, diapers, pumping, growth and temperature. No account or ads.
+
+- [Documentation](docs/en/index.md): verified overview
+- [Facts](docs/en/facts.md): store identity and dates
+- [Features](docs/en/features.md): supported capabilities
+- [Privacy](docs/en/privacy.md): data-safety claims
+- [Limitations](docs/en/limitations.md): explicit boundaries
